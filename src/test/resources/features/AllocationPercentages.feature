@@ -1,6 +1,6 @@
 Feature: Allocation percentages
 
-  @mob
+  @wip
   Scenario: Confirm Allocation
     Given User is on the Confirm allocation page
     Then  User taps "Cautions" tab
